@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "block_item/stone",
+    "overlay": "block_item/gold_ore_overlay"
+  }
+}

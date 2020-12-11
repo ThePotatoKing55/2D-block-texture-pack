@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "block_item/piston",
+    "overlay": "block_item/sticky_piston_overlay"
+  }
+}

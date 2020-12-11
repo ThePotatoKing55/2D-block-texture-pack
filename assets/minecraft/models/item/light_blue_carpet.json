@@ -1,0 +1,6 @@
+{
+  "parent": "item/block_item_carpet_template",
+  "textures": {
+    "base": "block_item/light_blue_wool"
+  }
+}
