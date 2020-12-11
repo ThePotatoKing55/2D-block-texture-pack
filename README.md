@@ -7,7 +7,7 @@ Replace all of those 3D inventory previews with drawn textures! Make your invent
 Installation
 ------------
 
-Download the latest release from [here](https://github.com/ThePotatoKing55/2D-block-texture-pack/releases), then put it in your `resourcepacks` folder (either at `\%AppData%\.minecraft\resourcepacks\` or `~/Library/Application Support/minecraft/resourcepacks`) and apply it in-game.
+Download the latest release from [here](https://github.com/ThePotatoKing55/2D-block-texture-pack/releases), then put it in your `resourcepacks` folder (either at `%AppData%\.minecraft\resourcepacks\` or `~/Library/Application Support/minecraft/resourcepacks`) and apply it in-game.
 
 Feedback
 --------
