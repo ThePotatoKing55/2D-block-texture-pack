@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "block_item/blackstone",
+    "overlay": "block_item/gilded_blackstone_overlay"
+  }
+}
