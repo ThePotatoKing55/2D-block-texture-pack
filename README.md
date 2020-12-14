@@ -10,6 +10,7 @@ Features
 - Mostly high-quality textures!
 - The death of the third dimension*!
 - Differentiation between otherwise identical blocks, like a shiny finish on the waxed copper items!
+
 \* <sup><sup>Death of the third dimension only available in the GUI and your hand.</sup></sup>
 
 Installation
