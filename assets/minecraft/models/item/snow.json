@@ -1,0 +1,6 @@
+{
+  "parent": "item/block_item_flat_template",
+  "textures": {
+    "base": "block_item/snow"
+  }
+}
