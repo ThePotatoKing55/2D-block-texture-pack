@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "item/end_rod"
+    "layer0": "item/cobblestone_wall"
   }
 }
