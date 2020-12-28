@@ -1,6 +1,5 @@
 #!/bin/bash
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
-cd "$DIR"
+cd "$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 cp pack.mcmeta pack_template.mcmeta
 sed -i sed -i '' "s/%PACK_FORMAT%/6/g" pack.mcmeta
 zip -r Release/2D-Blocks-$(cat PACK_VERSION)-1.16.zip assets pack.png pack.mcmeta -x '*.DS_Store'
