@@ -11,8 +11,18 @@ Features
 - The death of the third dimension*!
 - Differentiation between otherwise identical blocks, like a shiny finish on the waxed copper items!
 - Neat animations!
+- A more cohesive visual style!
 
 <sup><sup>\*Death of the third dimension only available in the GUI and your hand.</sup></sup>
+
+Preview
+-------
+
+YouTuber TheDerpyWhale made a [comprehensive video for this pack](https://youtu.be/T9gWT26CPP8).
+
+Or, you could just look at this very long screenshot:
+
+![](screenshot.png)
 
 Installation
 ------------
@@ -23,5 +33,3 @@ Feedback
 --------
 
 If you find any issues or have suggestions, make a new issue [here](https://github.com/ThePotatoKing55/2D-block-texture-pack/issues).
-
-![](screenshot.png)

@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "block_item/dirt",
+    "overlay": "block_item/farmland_overlay"
+  }
+}
