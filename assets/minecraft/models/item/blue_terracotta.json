@@ -1,0 +1,6 @@
+{
+  "parent": "item/block_item",
+  "textures": {
+    "base": "block_item/blue_terracotta"
+  }
+}
