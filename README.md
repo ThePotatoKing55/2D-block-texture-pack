@@ -20,9 +20,17 @@ Preview
 
 YouTuber TheDerpyWhale made a [comprehensive video for this pack](https://youtu.be/T9gWT26CPP8).
 
-Or, you could just look at this very long screenshot:
+Here's a few shots of it in action:
 
-![](screenshot.png)
+![](Screenshots/crater.png)
+
+![](Screenshots/mining.png)
+
+![](Screenshots/inventory.png)
+
+Alternatively, here's a complete list of every item in the pack.
+
+![](Screenshots/long.png)
 
 Installation
 ------------
