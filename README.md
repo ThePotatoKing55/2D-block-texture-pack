@@ -27,7 +27,7 @@ Or, you could just look at this very long screenshot:
 Installation
 ------------
 
-[Follow this link](https://github.com/ThePotatoKing55/2D-block-texture-pack/releases) and download the latest release's file for your respective Minecraft version under `Assets`. Just put it in your `resourcepacks` folder (either at `%AppData%\.minecraft\resourcepacks` or `~/Library/Application Support/minecraft/resourcepacks`) and apply it in-game.
+[Follow this link](https://github.com/ThePotatoKing55/2D-block-texture-pack/releases/latest) and download the latest release's file for your respective Minecraft version under `Assets`. Just put it in your `resourcepacks` folder (either at `%AppData%\.minecraft\resourcepacks` or `~/Library/Application Support/minecraft/resourcepacks`) and apply it in-game.
 
 Feedback
 --------
