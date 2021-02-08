@@ -1,5 +1,5 @@
 {
-  "parent": "item/handheld_rod",
+  "parent": "item/generated",
   "textures": {
     "layer0": "item/lever"
   }

@@ -1,6 +1,6 @@
 {
-  "parent": "item/block_item",
+  "parent": "item/generated",
   "textures": {
-    "base": "block_item/target"
+    "layer0": "item/target"
   }
 }

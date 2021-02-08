@@ -20,7 +20,7 @@ Preview
 
 YouTuber TheDerpyWhale made a [comprehensive video for this pack](https://youtu.be/T9gWT26CPP8).
 
-Here's a few shots of it in action:
+Here's a few shots of it in action (they may not be entirely up-to-date):
 
 ![](Screenshots/crater.png)
 
@@ -28,7 +28,7 @@ Here's a few shots of it in action:
 
 ![](Screenshots/inventory.png)
 
-Alternatively, here's a complete list of every item in the pack.
+Alternatively, here's a very long list of every item in the pack:
 
 ![](Screenshots/long.png)
 
