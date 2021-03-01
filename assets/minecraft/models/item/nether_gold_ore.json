@@ -2,6 +2,6 @@
   "parent": "item/block_item_overlay",
   "textures": {
     "base": "block_item/netherrack",
-    "overlay": "block_item/nether_gold_ore_overlay"
+    "overlay": "block_item/gold_ore_overlay"
   }
 }

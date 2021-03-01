@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay_tinted",
+  "textures": {
+    "base": "block_item/pumpkin",
+    "overlay": "block_item/carved_pumpkin_overlay"
+  }
+}
