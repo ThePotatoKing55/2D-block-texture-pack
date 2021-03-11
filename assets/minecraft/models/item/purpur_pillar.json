@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "block_item/purpur_block",
+    "overlay": "block_item/purpur_pillar_overlay"
+  }
+}

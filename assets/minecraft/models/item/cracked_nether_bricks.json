@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "block_item/nether_bricks",
+    "overlay": "block_item/cracked_nether_brick_overlay"
+  }
+}

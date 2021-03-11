@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "block_item/smooth_quartz",
+    "overlay": "block_item/quartz_block_overlay"
+  }
+}
