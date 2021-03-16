@@ -22,11 +22,15 @@ YouTuber TheDerpyWhale made a [comprehensive video for this pack](https://youtu.
 
 Here's a few shots of it in action (they may not be entirely up-to-date):
 
+![](Screenshots/inventory.png)
+
 ![](Screenshots/crater.png)
 
-![](Screenshots/mining.png)
+![](Screenshots/mine.png)
 
-![](Screenshots/inventory.png)
+![](Screenshots/home.png)
+
+![](Screenshots/glow.png)
 
 Alternatively, here's a very long list of every item in the pack:
 
@@ -35,9 +39,16 @@ Alternatively, here's a very long list of every item in the pack:
 Installation
 ------------
 
-[Follow this link](https://github.com/ThePotatoKing55/2D-block-texture-pack/releases/latest) and download the latest release's file for your respective Minecraft version under `Assets`. Just put it in your `resourcepacks` folder (either at `%AppData%\.minecraft\resourcepacks` or `~/Library/Application Support/minecraft/resourcepacks`) and apply it in-game.
+[Follow this link](https://github.com/ThePotatoKing55/2D-block-texture-pack/releases/latest) and download the latest release's file for your respective Minecraft version under `Assets`. Just put it in your `resourcepacks` folder (`%AppData%\.minecraft\resourcepacks` on Windows, `~/Library/Application Support/minecraft/resourcepacks` on macOS, or `~/.minecraft/resourcepacks` on Linux) and apply it in-game.
 
 Feedback
 --------
 
 If you find any issues or have suggestions, make a new issue [here](https://github.com/ThePotatoKing55/2D-block-texture-pack/issues).
+
+Other Stuff
+-----------
+
+[Check this out on Planet Minecraft!](https://www.planetminecraft.com/texture-pack/2d-block-items/)
+
+Shoutout to stiw91's [Flat - 2D Items](https://www.planetminecraft.com/texture-pack/flat-4806298/), which inspired me to make this pack in the first place.
