@@ -1,6 +1,0 @@
-{
-  "parent": "item/block_item_stairs_template",
-  "textures": {
-    "base": "block_item/warped_planks"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "item/block_item_stairs_overlay_template",
-  "textures": {
-    "base": "block_item/sandstone",
-    "overlay": "block_item/smooth_sandstone_overlay"
-  }
-}

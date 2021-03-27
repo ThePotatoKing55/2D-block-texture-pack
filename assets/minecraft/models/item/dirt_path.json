@@ -1,7 +1,0 @@
-{
-  "parent": "item/block_item_overlay",
-  "textures": {
-    "base": "block_item/dirt",
-    "overlay": "block_item/dirt_path_overlay"
-  }
-}

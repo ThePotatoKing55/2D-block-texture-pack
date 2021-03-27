@@ -1,7 +1,0 @@
-{
-  "parent": "item/block_item_overlay",
-  "textures": {
-    "base": "block_item/exposed_cut_copper",
-    "overlay": "block_item/waxed_copper_overlay"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld_rod",
-  "textures": {
-    "layer0": "item/lightning_rod"
-  }
-}

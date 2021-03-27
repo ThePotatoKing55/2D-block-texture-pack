@@ -2,6 +2,6 @@
   "parent": "item/block_item_overlay",
   "textures": {
     "base": "block_item/pumpkin",
-    "overlay": "block_item/carved_pumpkin_overlay"
+    "overlay": "block_item/jack_o_lantern_overlay"
   }
 }

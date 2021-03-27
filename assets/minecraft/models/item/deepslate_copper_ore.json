@@ -1,7 +1,0 @@
-{
-  "parent": "item/block_item_overlay",
-  "textures": {
-    "base": "block_item/deepslate",
-    "overlay": "block_item/copper_ore_overlay"
-  }
-}

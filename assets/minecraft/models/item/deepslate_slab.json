@@ -1,6 +1,0 @@
-{
-  "parent": "item/block_item_slab_template",
-  "textures": {
-    "base": "block_item/deepslate"
-  }
-}

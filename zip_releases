@@ -1,11 +1,4 @@
 #!/bin/bash
 cd "$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 rm Releases/*
-cp pack.mcmeta pack_template.mcmeta
-sed -i sed -i '' "s/%PACK_FORMAT%/6/g" pack.mcmeta
-zip -r Release/2D-Blocks-$(cat PACK_VERSION)-1.16.zip assets pack.png pack.mcmeta -x '*.DS_Store'
-cp pack_template.mcmeta pack.mcmeta
-sed -i sed -i '' "s/%PACK_FORMAT%/7/g" pack.mcmeta
-zip -r Release/2D-Blocks-$(cat PACK_VERSION)-1.17.zip assets pack.png pack.mcmeta -x '*.DS_Store'
-rm pack.mcmeta
-mv pack_template.mcmeta pack.mcmeta
+zip -r Release/2D-Blocks-$(cat PACK_VERSION)-1.8.zip assets pack.png pack.mcmeta -x '*.DS_Store'

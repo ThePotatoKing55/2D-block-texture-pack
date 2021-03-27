@@ -1,7 +1,0 @@
-{
-  "parent": "item/block_item_overlay",
-  "textures": {
-    "base": "block_item/sandstone",
-    "overlay": "block_item/cut_sandstone_overlay"
-  }
-}
